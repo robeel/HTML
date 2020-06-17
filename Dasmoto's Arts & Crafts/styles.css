@@ -1,0 +1,28 @@
+header{
+background-image: url("/Users/mac/Desktop/Web Dev/Dasmoto's Arts & Crafts/pattern.jpeg");
+
+}
+header h1{
+    color: rgb(194, 202, 120);
+    text-align: center;
+    font-size: 70px;
+}
+#b_h2{
+    background-color: greenyellow;
+    color: white;
+
+}
+.price{
+    color: blue;
+    font-size: large;
+}
+.f_h2{
+    background-color: pink;
+    color: white;
+    font: bold;
+}
+#p_h2{
+    background-color: lightblue ;
+    color: white;
+    font: bold;
+}
